@@ -1,0 +1,10 @@
+Molecule	 Full Name 	UniProt 	NCases	NControls	Fold Change 	p-Value 	q-Value
+RNase1 	Ribonuclease pancreatic 	P07998 	20	20	1.47	0.00002	0.035
+RABP2	Cellular retinoic acid-binding protein 2	P29373	20	20	1.47	0.00002	0.035
+AIF1L	Allograft inflammatory factor 1-like	Q9BQI0	20	20	1.25	0.00002	0.035
+PXDN	Peroxidasin homolog	Q92626	20	20	1.39	0.00005	0.038
+Ephrin-A4	Ephrin-A4	P52798	20	20	1.16	0.00005	0.038
+TIMD3	Hepatitis A virus cellular receptor 2	Q8TDQ0	20	20	1.1	0.00006	0.038
+MXRA7	Matrix-remodeling-associated protein 7	P84157	20	20	1.14	0.00006	0.038
+TNF sR-I	Tumor necrosis factor receptor superfamily member 1A	P19438	20	20	1.28	0.00007	0.038
+IL-18	BPa Interleukin-18-binding protein	O95998	20	20	1.24	0.00007	0.038
